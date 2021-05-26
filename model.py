@@ -49,7 +49,6 @@ X
 
 from sklearn.ensemble import RandomForestClassifier
 
-from sklearn.model_selection import cross_val_score
 
 rfc = RandomForestClassifier()
 
