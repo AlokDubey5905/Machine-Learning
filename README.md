@@ -1,3 +1,3 @@
 # ML
 
-This repositry is made for the students who are beginner in machine learning
+This repositry contains all the projects that I have done based and Machine Learning or Deep Learning.
